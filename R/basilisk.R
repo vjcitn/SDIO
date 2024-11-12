@@ -4,7 +4,7 @@
 # necessary for python module control
 bsklenv <- basilisk::BasiliskEnvironment(envname="bsklenv",
     pkgname="SDIO",
-    packages=c("spatialdata==0.2.3", "spatialdata-io==0.1.5"))
+    packages=c("spatialdata==0.2.3", "spatialdata-io==0.1.4"))
 
 
 #' enumerate modules
